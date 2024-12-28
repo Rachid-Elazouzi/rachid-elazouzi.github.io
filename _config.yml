@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ELAZOUZI/ Site Title"
+title                    : "ELAZOUZI"
 title_separator          : "-"
 name                     : &name "ELAZOUZI"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "rachid-elazouzi/rachid-elazouzi.github.io"
 author:
   # Biographic information
   avatar           : "photo_Rachid.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Rachid Elazouzi"
+  pronouns         : ""  
   bio              : ""
   location         : "Earth"
   employer         : "Red Brick University"
