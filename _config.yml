@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ELAZOUZI"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "ELAZOUZI"
 description              : &description "personal description"
