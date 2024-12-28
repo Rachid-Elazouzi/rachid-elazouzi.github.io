@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "HOME"
-description              : &description "personal description"
-url                      : https://rachid-elazouzi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     :  "HOME"
+description              : &description "Rachid Elazouzi"
+url                      : "https://rachid-elazouzi.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rachid-elazouzi/rachid-elazouzi.github.io"
 
@@ -30,7 +30,7 @@ author:
   uri              : # URL
   email            : "rachid.elazouzi at avignon.fr" 
 
-  # Academic websites
+  # websites
   arxiv            : "https://arxiv.org/a/elazouzi_r_1.html"
   googlescholar    : "https://scholar.google.fr/citations?user=Tvto5qkAAAAJ&hl"
   impactstory      : # URL
