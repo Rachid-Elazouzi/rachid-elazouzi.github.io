@@ -23,8 +23,8 @@ Rachid El-Azouzi is the professor at the University of Avignon in France,  speci
 
 News
 ======
-1. blabla
-1. blabla
-1. blabla
-1. blabla
+1. TBD
+1. TBD
+1. TBD
+1. TBD
 
