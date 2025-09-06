@@ -28,7 +28,7 @@ News
 7/20/24: Thanks to the ANR  for funding our project on “Towards Energy Efficient Didtributed Learning for 6G – TREES” This is a joint project with Orange Innovation, CNAM, University Paris-Dauphine and Canergie Mellon university 
 <a href="https://trees.roc.cnam.fr/">TREES</a>.
 
-11/5/23 Prof. Rachid Elazouzi was invited to serve as Area 4 (Emerging Networks) editor for <a href="[https://trees.roc.cnam.fr/](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board">IEEE TNSE</a>
+11/5/23 Prof. Rachid Elazouzi was invited to serve as Area 4 (Emerging Networks) editor for <a href="[https://trees.roc.cnam.fr/](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board">IEEE TNSE</a>.
 
 8/1/23 Prof. Rachid Elazouzi will visit Carnegie Mellon University as a visiting researcher for one year.
 7/20/24
