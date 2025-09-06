@@ -32,7 +32,7 @@ author_profile: true
 * <b>Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services
 </b>Samira Habli, Rachid El-Azouzi, Essaid Sabir, Mandar Datar, Halima Elbiaze, Mohammed Sadik
 <br>MDPI GAMES 2025
-<br> <a href="https://doi.org/10.3390/">[MDPI GAMES]</a>
+<br> <a href="https://doi.org/10.3390/g16020020">[MDPI GAMES]</a>
 
 * <b>
 </b>
