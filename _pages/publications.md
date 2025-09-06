@@ -9,7 +9,6 @@ author_profile: true
 <br>Hibatallah Kabbaj, Rachid El-Azouzi, Abdellatif Kobbane
 <br> IEEE Access
 <br> <a href="https://ieeexplore.ieee.org/document/11148242">[IEEE Access]</a>
-<br>
 
 * <b>ClusFed: Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers
 </b>B Trotti Llacer, W Tang, R Elazouzi, G Fanti, D Sadoc Menasche
