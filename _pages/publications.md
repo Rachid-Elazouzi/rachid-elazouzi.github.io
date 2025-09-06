@@ -18,22 +18,22 @@ author_profile: true
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training
 </b>Ahmad Dabaja, Rachid El-Azouzi
 <br> PIMRC'25 Mobile and Wireless Networks
-<br> <a href="https://www.dropbox.com/scl/fi/robjaicir0d0car7hz88i/FedPLT_Conference_Paper___PIMRC.pdf?rlkey=olpobv8rbqqlv12k01pwnv1bv&dl=0">[PIMRC]</a>
+<br> <a href="https://www.dropbox.com/scl/fi/robjaicir0d0car7hz88i/FedPLT_Conference_Paper___PIMRC.pdf?rlkey=olpobv8rbqqlv12k01pwnv1bv&dl=0">[PIMRC25]</a>
 
-* <b>
-</b>
-<br>
-<br> <a href="">[]</a>
+* <b>Group-based Client Sampling in Multi-Model Federated Learning
+</b>Zejun Gong, Haoran Gong, Zhang, Marie Siew, Joe-Wong, Rachid El-Azouzi
+<br>The 2025 IEEE 101st Vehicular Technology Conference
+<br> <a href="https://www.dropbox.com/scl/fi/m6hbtpna7mzfhbasngfzf/Group_based_Client_Sampling_in_Multi_Model_Federated_Learning.pdf?rlkey=i8c2hddpfku8gmt07l3hszm2j&dl=0">[VTC25]</a>
 
-* <b>
-</b>
+* <b>Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning
+</b>Haoran Zhang, Zejun Gong, Zekai Li, Marie Siew, Joe-Wong Carlee, Rachid El-Azouzi
 <br>
-<br> <a href="">[]</a>
+<br> <a href="https://arxiv.org/pdf/2504.05138">[Arxiv]</a>
 
-* <b>
-</b>
-<br>
-<br> <a href="">[]</a>
+* <b>Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services
+</b>Samira Habli, Rachid El-Azouzi, Essaid Sabir, Mandar Datar, Halima Elbiaze, Mohammed Sadik
+<br>MDPI GAMES 2025
+<br> <a href="https://doi.org/10.3390/">[MDPI GAMES]</a>
 
 * <b>
 </b>
