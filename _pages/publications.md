@@ -19,7 +19,7 @@ author_profile: true
 </b>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
 <br>ACM SIGMETRICS 2025
 <br> <a href="https://arxiv.org/html/2411.10399v1">[SIGMETRICS 2025]</a>
-<br> <p style="color:rgb(255,0,0);"> Best Paper Award Finalist @ SIGMETRICS 2025</p>
+<br> <p style="color:rgb(255,1,0);"> Best Paper Award Finalist @ SIGMETRICS 2025</p>
 
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training
 </b>Ahmad Dabaja, Rachid El-Azouzi
