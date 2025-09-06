@@ -8,7 +8,7 @@ author_profile: true
 * <b>ClusFed: A Clustering-Based Defense for Secure Federated Learning</b>
 <br>Hibatallah Kabbaj, Rachid El-Azouzi, Abdellatif Kobbane
 <br> IEEE Access
-<br> <a href="https://ieeexplore.ieee.org/document/11148242">IEEE Access/</a>
+<br> <a href="https://ieeexplore.ieee.org/document/11148242">IEEE Access</a>
 <br>
 
 
