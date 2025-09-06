@@ -15,10 +15,10 @@ author_profile: true
 <br>Advances in Financial Technologies (AFT25), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA.
 <br> <a href="https://advfintech.org/aft25/program.html">[AFT25]</a>
 
-* <b>
-</b>
-<br>
-<br> <a href="">[]</a>
+* <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training
+</b>Ahmad Dabaja, Rachid El-Azouzi
+<br> PIMRC'25 Mobile and Wireless Networks
+<br> <a href="https://www.dropbox.com/scl/fi/robjaicir0d0car7hz88i/FedPLT_Conference_Paper___PIMRC.pdf?rlkey=olpobv8rbqqlv12k01pwnv1bv&dl=0">[PIMRC]</a>
 
 * <b>
 </b>
