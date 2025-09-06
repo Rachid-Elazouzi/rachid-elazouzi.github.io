@@ -26,7 +26,7 @@ News
 6/9/25: Congratulations to Weizhao Tang, Cheng Han Lee, Ethan Chan and Giulia Fanti for being finalists for the Best Paper Award at SIGMETRICS 2025 for our work on analyzing game theoretic strategies for liquidity allocation in automated market makers!
 
 7/20/24: Thanks to the ANR  for funding our project on “Towards Energy Efficient Didtributed Learning for 6G – TREES” This is a joint project with Orange Innovation, CNAM, University Paris-Dauphine and Canergie Mellon university 
-<a href="https://trees.roc.cnam.fr/)">TREES</a>.
+<a href="https://trees.roc.cnam.fr/">TREES</a>.
 
 11/5/23 Prof. Rachid Elazouzi was invited to serve as area editor for IEEE TNSE.
 
