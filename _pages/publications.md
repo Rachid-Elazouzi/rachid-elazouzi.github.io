@@ -10,10 +10,16 @@ author_profile: true
 <br> IEEE Access
 <br> <a href="https://www.dropbox.com/scl/fi/kip07o8px4a60zivoy7pb/VF_ClusFed_ieee_access.pdf?rlkey=dbwvm74rkq1lk40tdmjwg4sd2&dl=0">[IEEE Access]</a>
 
-* <b>ClusFed: Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers
+* <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers
 </b>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
 <br>Advances in Financial Technologies (AFT25), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA.
 <br> <a href="https://www.dropbox.com/scl/fi/mvt28oywvnne4h4krttjk/JIT_game_II.pdf?rlkey=rkz3ahixdxcx1lxvwrdc8ob6g&dl=0">[AFT25]</a>
+
+* <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers
+</b>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
+<br>ACM SIGMETRICS 2025
+<br> <a href="https://arxiv.org/html/2411.10399v1">[SIGMETRICS 2025]</a>
+<br> <p style="color:#FF0000;"> Best Paper Award Finalist @ SIGMETRICS 2025</p>
 
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training
 </b>Ahmad Dabaja, Rachid El-Azouzi
@@ -34,10 +40,10 @@ author_profile: true
 <br>MDPI GAMES 2025
 <br> <a href="https://doi.org/10.3390/g16020020">[MDPI GAMES]</a>
 
-* <b>
-</b>
-<br>
-<br> <a href="">[]</a>
+* <b>W-RPC: a Weighted Reducer Placement and Coflow Scheduling Scheme
+</b>Youssef Oubaydallah, Khalil Ibrahimi, Rachid El-Azouzi, Hatim Ousilmaati
+<br>The 12th International Conference on Wireless Networks and Mobile Communications, Riyadh, Saudi Arabia.
+<br> <a href="https://www.wincom-conf.org/WINCOM_2025/">[WINCOM25]</a>
 
 * <b>
 </b>
