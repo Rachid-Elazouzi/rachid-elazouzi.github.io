@@ -8,12 +8,12 @@ author_profile: true
 * <b>ClusFed: A Clustering-Based Defense for Secure Federated Learning</b>
 <br>Hibatallah Kabbaj, Rachid El-Azouzi, Abdellatif Kobbane
 <br> IEEE Access
-<br> <a href="https://ieeexplore.ieee.org/document/11148242">[IEEE Access]</a>
+<br> <a href="https://www.dropbox.com/scl/fi/kip07o8px4a60zivoy7pb/VF_ClusFed_ieee_access.pdf?rlkey=dbwvm74rkq1lk40tdmjwg4sd2&dl=0">[IEEE Access]</a>
 
 * <b>ClusFed: Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers
 </b>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
 <br>Advances in Financial Technologies (AFT25), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA.
-<br> <a href="https://advfintech.org/aft25/program.html">[AFT25]</a>
+<br> <a href="https://www.dropbox.com/scl/fi/mvt28oywvnne4h4krttjk/JIT_game_II.pdf?rlkey=rkz3ahixdxcx1lxvwrdc8ob6g&dl=0">[AFT25]</a>
 
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training
 </b>Ahmad Dabaja, Rachid El-Azouzi
