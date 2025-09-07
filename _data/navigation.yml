@@ -9,8 +9,8 @@ main:
   - title: "Research"
     url: /research/
 
-      -- title: "Advising"
-    url: /Advising/
+  - title: "Advising"
+    url: /advising/
     
   - title: "Publications"
     url: /publications/
