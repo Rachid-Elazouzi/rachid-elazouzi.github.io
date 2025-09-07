@@ -10,7 +10,10 @@ main:
     url: /research/
 
     -- title: "Advising"
-    url: /research/Advising
+    url: /research/Advising/
+
+      -- title: "Advising"
+    url: /Advising/
     
   - title: "Publications"
     url: /publications/
