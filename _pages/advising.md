@@ -4,4 +4,11 @@ title: "Advising"
 permalink: /research/Advising
 author_profile: true
 ---
-My research encompasses applied mathematics, networking, game theory, optimal control, and the economics of computing and communication networks. In recent work, I have focused on decentralized and distributed systems, addressing challenges in federated learning, blockchain technologies, automated market makers, datacenter scheduling, and resource allocation in wireless networks. Methodologically, my research integrates game theory, evolutionary games, optimisation, stochastic processes, queuing theory, and distributed algorithms, while remaining responsive to the demands of emerging applications and infrastructures
+### Postdoctoral Associates
+
+### Current Ph.D. Students
+* <b>Tanguy LE CLOIREC, 2025</b>
+<br> Orchestration dynamique d'IA distribuée pour des réseaux 6G économes en énergie </b>
+<br>co-advised with Guillaume FRAYSSE </b>
+
+### Former PhD Students
