@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Advising"
-permalink: /advising
+permalink: /advising/
 author_profile: true
 ---
 ### Postdoctoral Associates
