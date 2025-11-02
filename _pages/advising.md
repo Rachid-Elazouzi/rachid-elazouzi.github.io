@@ -41,3 +41,21 @@ author_profile: true
 
 
 ### Former PhD Students
+* <b> Omar Boufous, 2020-2024.</b>
+<br> **Title**: Correlated Equilibria and  Learning.
+<br> **Co-advised** with  G with Eitan Altman (INRIA), MIkael Touati (Orange Innov) and Mustapha Boutchou (Orange Innov).
+
+* <b>Afaf Arfaoui, 2019-2023.</b>
+<br> **Title**: Management of Slices in the Radio Access of 5G Networks.
+<br> **Co-advised**  with Sabir Essaid (Université TÉLUQ, Canada).
+
+* <b>Naresh Modina, 2018-2022.</b>
+<br> **Title**: Management of Slices in the Radio Access for smart city.
+<br> **Co-advised**  with Francesco de Pellegrini (Avignon Université).
+
+* <b>Nejat Arinik, 2015-2019.</b>
+<br> **Title**: Graph partitioning problems related to structural equilibrium.
+<br> **Co-advised**  with Rosa FIGUEIREDO(Avignon Université)
+  and  Vincent Labatut (Avignon Université).
+
+
