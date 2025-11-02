@@ -40,7 +40,7 @@ author_profile: true
 <br>  **Co-advised** with Essaid Sabir (Université TÉLUQ, Canada).
 
 
-#### Former PhD Students
+### Former PhD Students
 * <b> Omar Boufous, 2020-2024.</b>
 <br> **Title**: Correlated Equilibria and  Learning.
 <br> **Co-advised** with  G with Eitan Altman (INRIA), MIkael Touati (Orange Innov) and Mustapha Boutchou (Orange Innov).
