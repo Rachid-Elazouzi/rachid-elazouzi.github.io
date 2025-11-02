@@ -7,13 +7,13 @@ author_profile: true
 ### Postdoctoral Associates
 
 ### Current Ph.D. Students
-* <b>Tanguy LE CLOIREC, 2025.</b>
-<br> - Title: Orchestration dynamique d'IA distribuée pour des réseaux 6G économes en énergie. </b>
-<br>- Co-advised with  Guillaume FRAYSSE (Orange Innov). </b>
+* <b>Tanguy LE CLOIREC, 2025.</br>
+<br> - Title: Orchestration dynamique d'IA distribuée pour des réseaux 6G économes en énergie. </br>
+<br>- Co-advised with  Guillaume FRAYSSE (Orange Innov). </br>
 
-* <b> Kacem Soulaymane 2025</b>
+* <b> Kacem Soulaymane 2025</br>
 <br> - Title: Decentralized federated learning for efficient communication and low energy impact in 6G. </b>
-<br>- Co-advised with  Juan-Manuel Torres-Moreno (Avignon University). </b>
+<br>- Co-advised with  Juan-Manuel Torres-Moreno (Avignon University).</br>
 
 * <b>Fatima OUBELKAS, 2025</b>
 <br> - Title: arameter-Efficient Fine-tuning for Federated Learning. </b>
