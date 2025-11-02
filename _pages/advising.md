@@ -4,10 +4,10 @@ title: "Advising"
 permalink: /advising/
 author_profile: true
 ---
-### Postdoctoral Associates
+#### Postdoctoral Associates
 
-### Current Ph.D. Students
-* <b>Tanguy LE CLOIREC, 2025.</b>
+#### Current Ph.D. Students
+** <b>Tanguy LE CLOIREC, 2025.</b>
 <br> **Title**: Orchestration dynamique d'IA distribuée pour des réseaux 6G économes en énergie.
 <br> **Co-advised** with  Guillaume FRAYSSE (Orange Innov).
 
@@ -40,7 +40,7 @@ author_profile: true
 <br>  **Co-advised** with Essaid Sabir (Université TÉLUQ, Canada).
 
 
-### Former PhD Students
+#### Former PhD Students
 * <b> Omar Boufous, 2020-2024.</b>
 <br> **Title**: Correlated Equilibria and  Learning.
 <br> **Co-advised** with  G with Eitan Altman (INRIA), MIkael Touati (Orange Innov) and Mustapha Boutchou (Orange Innov).
