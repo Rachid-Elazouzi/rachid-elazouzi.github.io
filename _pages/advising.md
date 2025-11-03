@@ -74,20 +74,7 @@ author_profile: true
 <br> **Title**: Learning algorithms for wireless networks, co-advised  with Eitan Altman, INRIA Sophia Antipolis. 
 
 
-* <b> Habib Sidi, 2010-2013 </b>
-<br> **Title**: Small Cell Wireless Networks.
 
-
-* <b> Mohammed Raiss, 2009-2012 </b>
-<br> **Title**: Learning-Based Spectrum Allocation, co-advised
-
-
-* <b> Habib Sidi, 2010-2013 </b>
-<br> **Title**: Small Cell Wireless Networks.
-
-
-* <b> Habib Sidi, 2010-2013 </b>
-<br> **Title**: Small Cell Wireless Networks.
 
 
 
