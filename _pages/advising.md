@@ -63,6 +63,32 @@ author_profile: true
 * <b>Mikael Touati, 2013-2016 </b>
 <br> **Title**: Coalition games and matching games applied to telecommunications networks, co-advised  with Eitan Altman, INRIA,  Marceaux Coupechoux, Telecom Paris and Jean-Marc Kelif, Orange Innov.
 
+ * <b>Imen Triki, 2014-2018</b>
+<br> **Title**: QoE-driven resource allocation , co-advised  with Majed Haddad, Avignon University. 
+
+
+* <b>Wissam Chahin, 2010-2014</b>
+<br> **Title**: Delay Tolerant Networks. 
+
+* <b>Manjesh Hanawal, 2010-2013 </b>
+<br> **Title**: Learning algorithms for wireless networks, co-advised  with Eitan Altman, INRIA Sophia Antipolis. 
+
+
+* <b> Habib Sidi, 2010-2013 </b>
+<br> **Title**: Small Cell Wireless Networks.
+
+
+* <b> Mohammed Raiss, 2009-2012 </b>
+<br> **Title**: Learning-Based Spectrum Allocation, co-advised
+
+
+* <b> Habib Sidi, 2010-2013 </b>
+<br> **Title**: Small Cell Wireless Networks.
+
+
+* <b> Habib Sidi, 2010-2013 </b>
+<br> **Title**: Small Cell Wireless Networks.
+
 
 
 
