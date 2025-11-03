@@ -43,6 +43,13 @@ author_profile: true
 <br> **Title**: Management of Slices in the Radio Access for smart city, co-advised  with Francesco de Pellegrini, Avignon Université.
 
 * <b>Nejat Arinik, 2015-2019.</b>
-<br> **Title**: Graph partitioning problems related to structural equilibrium, co-advised  with Rosa FIGUEIREDO(Avignon Université) and  Vincent Labatut (Avignon Université).
+<br> **Title**: Graph partitioning problems related to structural equilibrium, co-advised  with Rosa FIGUEIREDO, Avignon Université  and  Vincent Labatut, Avignon Université.
+
+* <b>Yanathan Protilla , 2013-2018</b>
+<br> **Title**: Epidemic study on social networks
+  , co-advised  with Eitan ALtman, Inria Sophia Antipolis.
+
+* <b>Nessrine Trabelssi, 2013-2016</b>
+<br> **Title**: Exploring Gibbs sampling techniques for mobility in Macro/Small cells, co-advised  with Eitan Altman, INRIA and Laurent Roulet, Nokia.
 
 
