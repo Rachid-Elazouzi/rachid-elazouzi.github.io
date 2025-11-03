@@ -52,4 +52,17 @@ author_profile: true
 * <b>Nessrine Trabelssi, 2013-2016</b>
 <br> **Title**: Exploring Gibbs sampling techniques for mobility in Macro/Small cells, co-advised  with Eitan Altman, INRIA and Laurent Roulet, Nokia.
 
+* <b>Nessrine Ben Khalifa, 2013-2016 </b>
+<br> **Title**: Evolutionary Games on Complex Networks, co-advised  with Yezekael Hayel, Avignon UNiversity.
+
+
+* <b> Zakaria Ye, 2013-2017 </b>
+<br> **Title**: Video streaming service in LTE networks, co-advised  with  Tania Jimenez, Avignon University.
+
+
+* <b>Mikael Touati, 2013-2016 </b>
+<br> **Title**: Coalition games and matching games applied to telecommunications networks, co-advised  with Eitan Altman, INRIA,  Marceaux Coupechoux, Telecom Paris and Jean-Marc Kelif, Orange Innov.
+
+
+
 
