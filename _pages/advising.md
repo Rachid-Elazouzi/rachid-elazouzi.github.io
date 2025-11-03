@@ -74,8 +74,39 @@ author_profile: true
 <br> **Title**: Learning algorithms for wireless networks, co-advised  with Eitan Altman, INRIA Sophia Antipolis. 
 
 
+* <b> Mohammed Raiss, 2009-2012 </b>
+<br> **Title**: Learning-Based Spectrum Allocation, co-advised with Houssine Bouyakhf, University of Mohamed V. 
 
 
+* <b> Oussama Habachi, 2009-2012 </b>
+<br> **Title**: Optimization of Partially Observable Systems
+in Wireless Networks: Game Theory, Self-adaptivity and Learning, co-advised with Yezekael  Hayel, Avignon University.
+
+
+* <b>  Essaid Sabir, 2007-2010</b>
+<br> **Title**: Modeling and evaluation of heterogeneous wireless networks, co-advised with Houssine Bouyakhf, University of Mohamed V and Yezekael Hayel, Avignon University. 
+
+* <b>  Amar Azad, 2007-2010</b>
+<br> **Title**: Competitive games and learning algorithms in Wireless networks, co-advised with Eitan Altman, INRIA Sophia Antipolis.
+
+* <b>  Hamidou Tembine, 2006-2009</b>
+<br> **Title**: Evolutionary games in networks, co-advised with Eitan Altman, INRIA Sophia Antipolis.
+
+* <b>   Khalil Ibrahimi, 2006-2009</b>
+<br> **Title**: Resource allocation in UMTS and WiMAX cellular networks, co-advised with Houssine Bouyakhf, University of Mohamed V. 
+
+* <b>   Thiery Peyre, 2005-2008</b>
+<br> **Title**: Performance Evaluation of WiMAX Networks, co-advised with Abderrahim Benslimane, Avignon University 
+
+* <b>   Abdellattif Kobbane, 2005-2008</b>
+<br> **Title**: Capacity of UMTS and HSPA Networks in a Heterogeneous Environment., co-advised with Houssine Bouyakhf, University of Mohamed V. 
+
+* <b>  Ralph El Khoury, 2004-2008</b>
+<br> **Title**: Quality of Service in Ad Hoc Networks , co-advised with Abderrahim Benslimane, Avignon University 
+
+
+* <b> Mohammed Elkamili , 2005-2008</b>
+<br> **Title**: Applying Game Theory to Network Systems , co-advised with Mohammed Abbad, University of Mohamed V. 
 
 
 
