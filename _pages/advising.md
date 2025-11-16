@@ -14,7 +14,10 @@ author_profile: true
 <br> **Title**: Decentralized federated learning for efficient communication and low energy impact in 6G (co-advised with  Juan-Manuel Torres-Moreno, Avignon University).
 
 * <b>Fatima OUBELKAS, 2025</b>
-<br> **Title**: arameter-Efficient Fine-tuning for Federated Learning (co-advised with Abdellatif Kobbane, Université Mohammed V). 
+<br> **Title**: arameter-Efficient Fine-tuning for Federated Learning (co-advised with Abdellatif Kobbane, Université Mohammed V).
+
+* <b>Anne Reulke, 2025. </b>
+<br> **Title**: A game-theoretic approach to efficient and sustainable cloud computing systems, co-advised with  MIkael Touati, Orange Innov).
 
 * <b>Caina Figueiredo Pereira, 2024 </b>
 <br>  **Title**: Multi-Model Federated Learning with Fairness Guarantees (co-advised with  carlee Joe-Wong, Carnegie Mellon University). 
@@ -22,8 +25,6 @@ author_profile: true
 * <b>Ahmad Dabaja, 2024 </b>
 <br> **Title**: Designing Incentives for Effective Federated Learning in a Distributed System (co-advise** with Yannick Estève, Avignon University). 
 
-* <b>Anne Reulke, 2023. </b>
-<br> **Title**: A game-theoretic approach to efficient and sustainable cloud computing systems, co-advised with  MIkael Touati, Orange Innov).
 
 * <b>HibatAllah Kabbaj, 2022. </b>
 <br> **Title**: Privacy attacks and defenses in Federated Learning systems, co-advised with Abdellatif Kobbane, Université Mohammed V. 
