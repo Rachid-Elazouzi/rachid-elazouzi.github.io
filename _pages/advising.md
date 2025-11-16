@@ -106,7 +106,7 @@ in Wireless Networks: Game Theory, Self-adaptivity and Learning, co-advised with
 <br> **Title**: Quality of Service in Ad Hoc Networks , co-advised with Abderrahim Benslimane, Avignon University 
 
 
-* <b> Mohammed Elkamili , 2005-2008</b>
+* <b> Mohammed Elkamili , 2002-2005</b>
 <br> **Title**: Applying Game Theory to Network Systems , co-advised with Mohammed Abbad, University of Mohamed V. 
 
 ### Former Master's Student
