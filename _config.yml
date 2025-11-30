@@ -145,10 +145,10 @@ social:
 
 
 # Analytics
-google_analytics: GTM-MSVV28SS
+google_analytics: G-RYGB2MW95L
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-  google_analytics: GTM-MSVV28SS
+  google_analytics: G-RYGB2MW95L
 
 
 # Reading Files
