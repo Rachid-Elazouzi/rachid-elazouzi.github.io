@@ -1,9 +1,10 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=GTM-MSVV28SS"></script>
+{% if site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  <!-- end custom analytics snippet -->
-  gtag('config', GTM-MSVV28SS');
+  gtag('config', '{{ site.google_analytics }}');
 </script>
+{% endif %}
+
