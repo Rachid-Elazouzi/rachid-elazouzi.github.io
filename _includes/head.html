@@ -1,12 +1,4 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=GTM-MSVV28SS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'GTM-MSVV28SS');
-</script>
-
-{% include base_path %}
+<head>
 
 <meta charset="utf-8">
 
@@ -26,4 +18,9 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
+<!-- Google Analytics -->
+  {% include analytics.html %}
+
 <meta http-equiv="cleartype" content="on">
+
+  </head>
