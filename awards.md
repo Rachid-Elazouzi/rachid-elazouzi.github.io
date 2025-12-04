@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-** Scientific awards and distinctions
+### Scientific awards and distinctions
 
 * <b>Best Poster Award, 44th IEEE International Conference on Distributed Computing Systems (ICDCS24), 2024.</b>
 
