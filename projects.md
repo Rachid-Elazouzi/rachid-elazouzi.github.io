@@ -97,9 +97,7 @@ author_profile: true
 <br> Partners: INRIA and  Avignon University
 <br>(2006-2009) (PI).
 
-* <b> Color Purpura project "Peer-to-peer in ad hoc networks"</b>
-<br> Partners: INRIA and  Avignon University
-<br>(2007-2010) (PI).
+
 
 
 
