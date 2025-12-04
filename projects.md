@@ -5,21 +5,31 @@ permalink: /projects/
 author_profile: true
 ---
 
+* <b> CIFRE contract with Orange on the topic “Dynamic orchestration of distributed AI for energy-efficient 6G networks”</b>
+<br> Partners:  Orange Labs and University of Avignon
+<br> (2025-2028).
+
 * <b>ANR TREES Project “Towards energy-efficient distributed learning for 6G”</b>
 <br> Partners: Cnam, University of Avignon, Hiawai, IMT, and Scalynx
 <br> (2024-2028).
 
 * <b>ANR Net4AI project, “Network acceleration for generative AI”</b>
-<br> Partners  Orange Labs,  Carnegie Mellon University , Paris Dauphine University, and  Avignon University
+<br> Partners  Orange Labs,  Carnegie Mellon University , Paris Dauphine University and  Avignon University
 <br> (2024-2028).
 
-* <b> ANR DELIGHT Project “Promoting federated learning while reducing carbon footprint",  </b>
-<br> Partners: Avignon University, CNRS LAAS Toulouse, University of Toulouse III,  New York University, 
+* <b> CIFRE contract with Orange on the topic “game-theoretic approach to efficient and sustainable cloud computing systems”</b>
+<br> Partners:  Orange Labs and University of Avignon
+<br> (2024-2027).
+
+* <b> ANR DELIGHT Project “Promoting federated learning while reducing carbon footprint"</b>
+<br> Partners: Avignon University, CNRS LAAS Toulouse, University of Toulouse III,  New York University
 <br> (2023-2027) (PI).
 
-* <b>ANR Maestro 5G Project “Slice management in the 5G mobile access network,</b>
-<br> Partners: ALBLF Alcatel Lucent Bell Labs France, Avignon University, INRIA, Orange Labs, Telecom Paris, Suplec, Cname, 
-<br> )(2018-2023)(PI).
+* <b>ANR Maestro 5G Project “Slice management in the 5G mobile access network</b>
+<br> Partners: ALBLF Alcatel Lucent Bell Labs France, Avignon University, INRIA, Orange Labs, Telecom Paris, Suplec, Cname
+<br>(2018-2023).
+
+
 
 
 
