@@ -20,13 +20,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Services"
-    url: /portfolio/
 
-    
   - title: "Awards"
     url: /awards/
     
+  - title: "Services"
+    url: /portfolio/
+ 
   - title: "Jobs"
     url: /Jobs/
+
+  -   title: "CV"
+    url: /CV/
