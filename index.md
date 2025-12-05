@@ -39,5 +39,14 @@ News
 
 08/23-08/24 Prof. Rachid Elazouzi will visit Carnegie Mellon University as a visiting researcher for one year.
 
-11/16 Congratulations to Francesco De Pellegrini, Antonio Massaro, Leonardo Goratti for winning the Best Paper  Award at International Conference on Network Games, Control, and Optimization
+11/16 Congratulations to Francesco De Pellegrini, Antonio Massaro, Leonardo Goratti for winning the Best Paper Award at Netgcopp16 for our work  on bounded generalized Kelly mechanism for multi-tenant caching in mobile edge clouds.
+
+05/15  Congratulations to Hajar Elhammouti and  Loubna Echabbi for winning the Best Student Paper Award  at Unet 2015 for our work  for proposing  A Fully Distributed Learning Algorithm for Power Allocation in Heterogeneous Networks. 
+
+12/07  Congratulations to Ralph El Khoury for winning the Best Paper Award at MSN2007 conference   for our work on Modeling the Effect of Forwarding in a Multi-hop Ad Hoc Networks with Weighted Fair Queueing.
+
+11/07 Congratulations to  Eitan Altman, Konstantin Avratchenkov, Nicolas Bonneau, Mérouane Debbah and Daniel Sadoc Menasché for winning the Best Paper Award at IEEE GLOBECOM-2007 on Constrained stochastic games in wireless networks.
+
+05/06 Congratulations Azad Kherani and Eitan Altman for winning the Best Paper Award at Networking conference for our work on Stability-Throughput Tradeo® and Routing in
+Multi-Hop Wireless Ad-Hoc Networks.
 
