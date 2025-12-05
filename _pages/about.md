@@ -35,9 +35,10 @@ News
 
 11/23 Prof. Rachid Elazouzi was invited to serve as Area 4 (Emerging Networks) editor for <a href="https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board/">IEEE TNSE</a>.
 
+12/2023 Best Associate Editor Award  for IEEE TNSE journal.
+
 08/23-08/24 Prof. Rachid Elazouzi will visit Carnegie Mellon University as a visiting researcher for one year.
-7/20/24
 
-12/2023 Best associate editor for IEEE TNSE journal, 2023.
+11/16 Congratulations torancesco De Pellegrini, Antonio Massaro, Leonardo Goratti for winning the Best Poster Award at International Conference on Network Games, Control, and Optimization
 
-24
+
