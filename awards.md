@@ -24,7 +24,7 @@ author_profile: true
 
 * <b>Best paper Award ex-aequo, Networking 2006, 15-19 MAY, Coimbra, Portugal 	</b>
 
-* <b>Best associate editor for IEEE TNSE journal, 2023.	</b>
+
 
 
 
