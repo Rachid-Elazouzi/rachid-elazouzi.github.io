@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Services"
-permalink: /Services/
+permalink: /services/
 author_profile: true
 ---
 ### Editorial activities
