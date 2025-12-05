@@ -23,12 +23,21 @@ Rachid El-Azouzi is  professor at the University of Avignon in France,  speciali
 
 News
 ======
-6/9/25: Congratulations to Weizhao Tang, Cheng Han Lee, Ethan Chan and Giulia Fanti for being finalists for the Best Paper Award at SIGMETRICS 2025 for our work on analyzing game theoretic strategies for liquidity allocation in automated market makers!
+06/25: Congratulations to Weizhao Tang, Cheng Han Lee, Ethan Chan and Giulia Fanti for being finalists for the Best Paper Award at SIGMETRICS 2025 for our work on analyzing game theoretic strategies for liquidity allocation in automated market makers!
 
-7/20/24: Thanks to the ANR  for funding our project on “Towards Energy Efficient Didtributed Learning for 6G – TREES” This is a joint project with Orange Innovation, CNAM, University Paris-Dauphine and Canergie Mellon university 
+03/25  Distinguished member of the INFOCOM TPC 2025
+
+07/24: Thanks to the ANR  for funding our project on “Towards Energy Efficient Didtributed Learning for 6G – TREES” This is a joint project with Orange Innovation, CNAM, University Paris-Dauphine and Canergie Mellon university 
 <a href="https://trees.roc.cnam.fr/">TREES</a>.
 
-11/5/23 Prof. Rachid Elazouzi was invited to serve as Area 4 (Emerging Networks) editor for <a href="https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board/">IEEE TNSE</a>.
+11/24  Congratulations to Haoran Zhang, Zekai Li, Zejun Gong, Marie Siew, and Carlee Joe-Wong for winning the Best Poster Award at the 44th IEEE International Conference on Distributed Computing Systems (ICDCS24) in 2024.
 
-8/1/23 Prof. Rachid Elazouzi will visit Carnegie Mellon University as a visiting researcher for one year.
-7/20/24
+
+11/23 Prof. Rachid Elazouzi was invited to serve as Area 4 (Emerging Networks) editor for <a href="https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board/">IEEE TNSE</a>.
+
+12/2023 Best Associate Editor Award  for IEEE TNSE journal.
+
+08/23-08/24 Prof. Rachid Elazouzi will visit Carnegie Mellon University as a visiting researcher for one year.
+
+11/16 Congratulations to Francesco De Pellegrini, Antonio Massaro, Leonardo Goratti for winning the Best Paper  Award at International Conference on Network Games, Control, and Optimization
+
