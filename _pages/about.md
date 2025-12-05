@@ -39,6 +39,6 @@ News
 
 08/23-08/24 Prof. Rachid Elazouzi will visit Carnegie Mellon University as a visiting researcher for one year.
 
-11/16 Congratulations torancesco De Pellegrini, Antonio Massaro, Leonardo Goratti for winning the Best Poster Award at International Conference on Network Games, Control, and Optimization
+11/16 Congratulations to Francesco De Pellegrini, Antonio Massaro, Leonardo Goratti for winning the Best Paper  Award at International Conference on Network Games, Control, and Optimization
 
 
