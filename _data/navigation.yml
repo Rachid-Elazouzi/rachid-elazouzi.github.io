@@ -24,11 +24,9 @@ main:
   - title: "Services"
     url: /portfolio/
 
- - title: "Services"
-    url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Awards"
+    url: /awards/
     
   - title: "Jobs"
     url: /Jobs/
