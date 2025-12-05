@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 
-* <b>Best Poster Award, 44th IEEE International Conference on Distributed Computing Systems (ICDCS24), 2024.</b>
+* <b> Finalists for the Best Paper Award at SIGMETRICS 2025 .</b>
 
-* <b>Best paper Award, Netgcopp, Avignon, France, 2006.</b>
+* <b> Best Poster Award, 44th IEEE International Conference on Distributed Computing Systems (ICDCS24), 2024.</b>
+
+* <b> Best Associate Editor Award for IEEE TNSE journal.</b>
+
+* <b> Best paper Award, Netgcopp, Avignon, France, 20016.</b>
+
+* <b> Distinguished Member of the INFOCOM Technical Program Committee  2025.</b>
 
 * <b>Best paper Award,  NETYS, Marakeh, Morocco, 2015.</b>
 
