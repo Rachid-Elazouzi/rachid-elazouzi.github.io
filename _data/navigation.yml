@@ -25,7 +25,7 @@ main:
     url: /awards/
     
   - title: "Services"
-    url: /services/
+    url: services/
  
   - title: "Jobs"
     url: /Jobs/
