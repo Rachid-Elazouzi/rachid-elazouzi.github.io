@@ -17,10 +17,24 @@ My teaching activity is on communication networks, machine learning and security
 <br> (2024-Present).
 
 
-### Networking
-
-
 ### Security
+
+* <b> <a href="https://formations.univ-avignon.fr/formation/master-informatique-systemes-informatiques-communicants-reseaux-services-et-securite-sicom/#">Secure Communications, Networks, and Application Services</a> </b>
+<br> M1 SYRIUS, CER, Avignon University
+<br> (2012-Present).
+
+* <b> <a href="https://formations.univ-avignon.fr/en/formation/licence-informatique/">Network Security</a> </b>
+<br> L3, Computer Science,  CER, Avignon University
+<br> (2017-Present).
+
+* <b> <a href="[https://formations.univ-avignon.fr/formation/master-informatique-systemes-informatiques-communicants-reseaux-services-et-securite-sicom/#](https://formations.univ-avignon.fr/en/formation/licence-informatique/">Fundamentals of Internet and Network Services</a> </b>
+<br> L3, Computer Science,  CER, Avignon University
+<br> (2024-Present).
+
+
+
+
+### Networking
 
 
  
