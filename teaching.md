@@ -13,7 +13,8 @@ My teaching activity is on communication networks, machine learning and security
 <br> (2024-Present).
 
 * <b>Distributed and Federated Learning </b>
-<br> European AI4CI Master Artificial Intelligence for Connected Industries
+<br> <br> <a href="https://ai4ci.eu/course/federated-and-distributed-learning/">
+European AI4CI Master Artificial Intelligence for Connected Industries </a>
 <br> (2024-Present).
 
 
