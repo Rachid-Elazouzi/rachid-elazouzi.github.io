@@ -28,7 +28,7 @@ My teaching activity is on communication networks, machine learning and security
 <br> (2017-Present).
 
 * <b> <a href="https://formations.univ-avignon.fr/en/formation/master-politiques-publiques-gouvernance-des-donnees/">Data Security and Protection</a> </b>
-<br> Master of Public Policy, Data Governance 
+<br> Master of Public Policy and Data Governance, Avignon University 
 <br> (2017-Present).
 
 
