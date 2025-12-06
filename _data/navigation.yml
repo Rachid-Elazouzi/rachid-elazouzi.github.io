@@ -30,5 +30,8 @@ main:
   - title: "Jobs"
     url: /Jobs/
 
+     - title: "Collaborators"
+    url: /collaborators/
+
   - title: "CV"
     url: /cv/
