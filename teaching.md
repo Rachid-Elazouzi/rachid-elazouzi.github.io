@@ -12,9 +12,8 @@ My teaching activity is on communication networks, machine learning and security
 <br> M1 SYRIUS, CER, Avignon University
 <br> (2024-Present).
 
-* <b>Distributed and Federated Learning </b>
-<br> <br> <a href="https://ai4ci.eu/course/federated-and-distributed-learning/">
-European AI4CI Master Artificial Intelligence for Connected Industries </a>
+* <b> <a href="https://ai4ci.eu/course/federated-and-distributed-learning/">Distributed and Federated Learning </a></b>
+<br> European AI4CI Master Artificial Intelligence for Connected Industries 
 <br> (2024-Present).
 
 
