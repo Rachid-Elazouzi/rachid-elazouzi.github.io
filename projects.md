@@ -7,7 +7,7 @@ author_profile: true
 
 * <b> CIFRE contract with Orange on the topic “Dynamic orchestration of distributed AI for energy-efficient 6G networks”</b>
 <br> Partners:  Orange Labs and University of Avignon
-<br> (2025-2028) (PI).
+<br> (2025-2028).
 
 * <b>ANR TREES Project “Towards energy-efficient distributed learning for 6G”</b>
 <br> Partners: Cnam, University of Avignon, Hiawai, IMT, and Scalynx
