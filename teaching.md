@@ -36,5 +36,10 @@ My teaching activity is on communication networks, machine learning and security
 
 ### Networking
 
+* <b> <a href="https://formations.univ-avignon.fr/en/formation/licence-informatique/">Fundamentals of Internet and Network Services</a> </b>
+<br> L3, Computer Science,  CER, Avignon University
+<br> (2024-Present).
+
+
 
  
