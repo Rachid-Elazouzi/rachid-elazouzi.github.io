@@ -8,7 +8,6 @@ author_profile: true
 ### Editorial activities
 
  <br> - (2024-Present) Editor Area 4 (Emerging Networks)  for IEEE Transactions on Network Science and Engineering (IEEE TNSE).
-
  <br> - (2021-2023) Associate Editor  for IEEE Transactions on Network Science and Engineering (IEEE TNSE).
 
 
