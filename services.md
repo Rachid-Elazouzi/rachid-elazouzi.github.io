@@ -120,20 +120,32 @@ on Performance Evaluation Methodologies and Tools), Nantes, 2007.</b>
 <br>  Wiopt 2014,    RAWNET 2014, NetGCoop 2014, MobiApps 2015.
 
 * <b>2007-2013</b>
-<br>  W-PIN+NetEcon 2014, MobiApps 2014, ICEPIT2014,  NGNS 2014, RAWNET 2015, ICC 2015,  DPNoC 2015, IJCDS 2014, RAWNET 2015, Netgcoop 2014,  NGNS2014, Netcon2014, Wiop2014, Netgcoop 2013, Netgcoop2012,  Wiopt 2012, VALUETOOLS 2012, ICCCN 2011, AWARE-2011, Wiopt 2011, GameNets 2011,  PIMRC 2011, Neetcop 2010, Valuetools 2009 (Piza, Italy) , Wiopt 2009 (Seoul, Korea), GameComm 2009 (Piza, Italy), Bionetics 2009 (Avignon, France), NGNS 2009 (Rabat, Morocco), PIMRC 2008 (Cannes, France), Valuetools 2008 (Athens, Greece), WNC3 2008, GameComm2008 (Athens, Greece), Rawnet/WNC 2009 (Seoul, Korea), GameNets 2008, Valuetools 2008, Rawnet 2008 (Berlin, Germany), WNC 2008 (Berlin, Germany), Valeutools 2007 (Nantes, France), RAWNET 2007, GameComm 2007,
+<br>  W-PIN+NetEcon 2014, MobiApps 2014, ICEPIT2014,  NGNS 2014, RAWNET 2015, ICC 2015,  DPNoC 2015, IJCDS 2014, RAWNET 2015, Netgcoop 2014,  NGNS2014, Netcon2014, Wiop2014, Netgcoop 2013, Netgcoop2012,  Wiopt 2012, VALUETOOLS 2012, ICCCN 2011, AWARE-2011, Wiopt 2011, GameNets 2011,  PIMRC 2011, Neetcop 2010, Valuetools 2009 (Piza, Italy) , Wiopt 2009 (Seoul, Korea), GameComm 2009 (Piza, Italy), Bionetics 2009 (Avignon, France), NGNS 2009 (Rabat, Morocco), PIMRC 2008 (Cannes, France), Valuetools 2008 (Athens, Greece), WNC3 2008, GameComm2008 (Athens, Greece), Rawnet/WNC 2009 (Seoul, Korea), GameNets 2008, Valuetools 2008, Rawnet 2008 (Berlin, Germany), WNC 2008 (Berlin, Germany), Valeutools 2007 (Nantes, France), RAWNET 2007, GameComm 2007.
 
-
-
-
-
-
-
- 
- 
 
 
 
 ### Conference Tutorials
+
+* <b> Keynote speaker for Wincom conference 2016. Title « Bitrate Adaptation for HTTP Adaptive Video Streaming”</b>
+
+* <b> Keynote speaker for workshop RAWNET 2014. Title “Learning algorithms for resource allocation in wireless networks”.</b>
+
+* <b>Invited speaker for Annual Allerton Conference on Communication, Control, and Computing, University of Illinois at Urbana-Champaign, 2015.</b>
+
+* <b>Invited speaker for Annual Allerton Conference on Communication, Control, and Computing, University of Illinois at Urbana-Champaign, 2015.</b>
+
+* <b>Talks at different universities or industrial companies/b>
+  <br> 2024 IRIT, Toulouse University: Federted Learning
+  <br> 2024 Carnegie Mellon University: Two talks on federated learning and Constraints correlated equilibrium 
+  <br> 2013 University of California at Berkeley 2013: Streaming videos and ressource alliocation
+  <br> HUAWEI à Paris 015 and 2016.
+   <br> LINKS à Paris, 2014, 2017.
+   <br>  University of illinois at urbana-champaign: 2015
+  <br> Imperial College London 2014
+  <br> Tutrials: Algorithmes stochastiques appliquées aux réseaux sans fi (Wiopt 2014). 	
+  
+
 
 
 
