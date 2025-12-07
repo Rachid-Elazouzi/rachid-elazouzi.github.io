@@ -8,6 +8,8 @@ author_profile: true
 * <b>ClusFed: A Clustering-Based Defense for Secure Federated Learning</b>
 <br> Hibatallah Kabbaj, Rachid El-Azouzi, Abdellatif Kobbane
 <br> IEEE Access
+VF_ClusFed_ieee_access.pdf
+<br> <a href="/files/VF_ClusFed_ieee_access.pdf">[IEEE Access]</a>
 <br> <a href="https://www.dropbox.com/scl/fi/kip07o8px4a60zivoy7pb/VF_ClusFed_ieee_access.pdf?rlkey=dbwvm74rkq1lk40tdmjwg4sd2&dl=0">[IEEE Access]</a>
 
 * <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
