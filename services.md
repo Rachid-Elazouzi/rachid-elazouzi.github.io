@@ -17,45 +17,20 @@ author_profile: true
 
 ### Organzing  Committes
 * <b> General Chair, ITC 33 2021, University of Avignon.</b>
-
-
 * <b> General Chair, Wiopt 2019, University of Avignon.</b>
-
-
 * <b> Program Committee Chair, Netgcoop 2018 Conference, New York, USA</b>
-
-
 * <b> Program Committee Chair, GameNets 2017 Conference, Knoxville, Tennessee, USA</b>
-
-
 * <b> General Chair of the Wincom 2017 conference in Rabat, Morocco.</b>
-
-
 * <b> Program Committee Chair of the WINCOM 2016 conference in Fez, Morocco.</b>
-
-
 * <b> General Chair of UNET, 2015, Casablanca, Morocco.</b>
-
-
 * <b> Co-Chair of the Program Committee of the WINCOM 2015 conference in Marrakesh, Morocco.</b>
-
-
 * <b> Co-chair of the program committee for the Netgcoop 2014 conference in Trento, Italy.</b>
-
-
 * <b> Co-General  chair” for Wiopt 2010 (6th ACM/IEEE International Symposium on Modeling
 and Optimization in Mobile, Ad Hoc, and Wireless Networks), 2010, Avignon, France.</b>
-
-
 * <b> General Chair for the Valuetools Gamecomm 2007 workshop (4th ACM/ICST International Conference
 on Performance Evaluation Methodologies and Tools), Nantes, 2007.</b>
-
-
 * <b> Co-chair of the program committee for the 2009 Bionetics Conference, Avignon.</b>
-
-
 * <b> Co-chair of the program committee for the 2009 Bionetics Conference, Avignon.</b>
-
 * <b> Organizer of the special session “Game Theory for Wireless Networks” at the GameNets conference, Istanbul, Turkey.</b>
 
 
@@ -65,11 +40,8 @@ on Performance Evaluation Methodologies and Tools), Nantes, 2007.</b>
 
 * <b>2026</b>
 <br>  IEEE Infocom 2026, Sigmetrics 2026,ACM  Mobihoc 2026, Wiopt 2026, ICC 2026.
-
 * <b>2025</b>
 <br>  IEEE Infocom 2025, ACM  Mobihoc 2025, Wiopt 2025, Globcom 2025, ICC 2025, Wiopt 2025,IEEE GESS 2025.
-
-
 * <b>2024</b>
 <br> ACM Mobihoc 2024, Wiopt 2024, Globcom 2024, ICC 2024, Wiopt 2024, Globcom 2024, GIIS'24.
 
