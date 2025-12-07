@@ -13,7 +13,7 @@ author_profile: true
 * <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
 <br>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
 <br>Advances in Financial Technologies ([AFT25](files/Sigmetrics2025.pdf)), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA.
-<br> <a href="https://www.dropbox.com/scl/fi/mvt28oywvnne4h4krttjk/JIT_game_II.pdf?rlkey=rkz3ahixdxcx1lxvwrdc8ob6g&dl=0">[AFT25]</a>
+<!--<br> <a href="https://www.dropbox.com/scl/fi/mvt28oywvnne4h4krttjk/JIT_game_II.pdf?rlkey=rkz3ahixdxcx1lxvwrdc8ob6g&dl=0">[AFT25]</a>-->
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
