@@ -28,7 +28,7 @@ author_profile: true
 
 * <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
 <br>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
-<br> <a href="https://arxiv.org/abs/2509.16157"> ArXiv:2509.16157 </a>
+<br> <a href="https://arxiv.org/abs/2509.16157"> ArXiv:2509.16157, 2025 </a>
 
 
 * <b>Group-based Client Sampling in Multi-Model Federated Learning</b>
@@ -52,9 +52,8 @@ author_profile: true
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
-<br> [Arxiv 2025](/files/Arxiv-SIGMETRICS)
-<!--<br> <a href="https://arxiv.org/html/2411.10399v1">[SIGMETRICS 2025]</a>
-  <br> <span style="color: red"> Best Paper Award Finalist @ SIGMETRICS 2025</span> -->
+<br> <a href="https://arxiv.org/html/2411.10399v1">ArXiv:2411.10399, 2025</a>
+
 
 ### 2024
 * <b>Title</b>
