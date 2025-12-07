@@ -10,7 +10,7 @@ author_profile: true
 * <b> (2024-Present) Editor Area 4 (Emerging Networks)  for IEEE Transactions on Network Science and Engineering (IEEE TNSE).</b>
 
 
-* <b> (2021-2023) Associate Editor  for IEEE Transactions on Network Science and Engineering (IEEE TNSE).</b>
+ <b> (2021-2023) Associate Editor  for IEEE Transactions on Network Science and Engineering (IEEE TNSE).</b>
 
 
 
