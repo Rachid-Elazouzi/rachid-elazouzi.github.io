@@ -11,4 +11,4 @@ author_profile: true
 <br> An 18-month postdoctoral position is available in the area of machine learning, with a strong emphasis on federated and distributed learning. The ideal candidate will have expertise in machine learning, graph-based methods, and optimization. The research will focus on developing advanced algorithms and models for scalable, privacy-preserving, and decentralized learning systems.
 
 * <b> Internship 2026</b>
-<br>  I offer several six-month internships in the areas of machine learning, blockchain, and AI data-center planning. If you are interested, please send me your résumé, a motivation letter, and your academic transcripts.
+<br>  I offer several six-month internships in the areas of machine learning, blockchain, and AI data-center scheduling. If you are interested, please send me your résumé, a motivation letter, and your academic transcripts.
