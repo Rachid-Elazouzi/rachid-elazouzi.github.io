@@ -135,7 +135,7 @@ on Performance Evaluation Methodologies and Tools), Nantes, 2007.</b>
 
 * <b>Invited speaker for Annual Allerton Conference on Communication, Control, and Computing, University of Illinois at Urbana-Champaign, 2015.</b>
 
-* <b>Talks at different universities or industrial companies/b>
+* <b>Talks at different universities or industrial companies </b>
   <br> 2024 IRIT, Toulouse University: Federted Learning
   <br> 2024 Carnegie Mellon University: Two talks on federated learning and Constraints correlated equilibrium 
   <br> 2013 University of California at Berkeley 2013: Streaming videos and ressource alliocation
