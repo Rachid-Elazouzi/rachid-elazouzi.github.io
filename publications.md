@@ -61,25 +61,25 @@ author_profile: true
 <br> IEEE Transactions on Parallel and Distributed Systems, 2024.
 <br> <a href="https://doi.org/10.1109/TPDS.2024.1234567">[IEEE TPDS]</a>
 
-* <b>Weighted Scheduling of Time-Sensitive Coflows</b>  
-<br>Olivier Brun, Rachid El-Azouzi, Quang-Trung Luu, Francesco De Pellegrini, Balakrishna J. Prabhu, Cédric Richier  
-<br>IEEE Transactions on Cloud Computing, 2024  
-<br><a href="https://dblp.org/rec/journals/tcc/BrunALPPR24">[IEEE TCC]</a>
+* <b>Weighted Scheduling of Time-Sensitive Coflows</b>
+* <br> Olivier Brun, Rachid El-Azouzi, Quang-Trung Luu, Francesco De Pellegrini, Balakrishna J. Prabhu, Cédric Richier
+* <br>IEEE Transactions on Cloud Computing, 2024
+* <br><a href="https://dblp.org/rec/journals/tcc/BrunALPPR24">[IEEE TCC]</a>
 
-* <b>Semi-Distributed Coflow Scheduling in Datacenters</b>  
-<br>Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jérémie Leguay, Quang-Trung Luu, Youcef Magnouche, Sébastien Martin  
-<br>IEEE Transactions on Network and Service Management, 2024  
-<br><a href="https://dblp.org/rec/journals/tnsm/AzouziPARLLMM24">[IEEE TNSM]</a>
+* <b>Semi-Distributed Coflow Scheduling in Datacenters</b>
+* <br>Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jérémie Leguay, Quang-Trung Luu, Youcef Magnouche, Sébastien Martin
+* <br>IEEE Transactions on Network and Service Management, 2024
+* <br><a href="https://dblp.org/rec/journals/tnsm/AzouziPARLLMM24">[IEEE TNSM]</a>
 
-* <b>Constrained Correlated Equilibria</b>  
-<br>Omar Boufous, Rachid El-Azouzi, Mikaël Touati, Eitan Altman, Mustapha Bouhtou  
-<br>Allerton Conference, 2024  
+* <b>Constrained Correlated Equilibria</b>
+<br>Omar Boufous, Rachid El-Azouzi, Mikaël Touati, Eitan Altman, Mustapha Bouhtou
+<br>Allerton Conference, 2024
 <br><a href="https://dblp.org/rec/conf/allerton/BoufousATAB24">[Allerton 2024]</a>
 
-* <b>FedSV: Byzantine-Robust Federated Learning via Shapley Value</b>  
-<br>Khaoula Otmani, Rachid El-Azouzi, Vincent Labatut  
-<br>Conference: IEEE ICC 2024  
-<br><a href="https://dblp.org/rec/conf/icc/OtmaniAL24">[IEEE ICC 2024]</a>
+* <b>FedSV: Byzantine-Robust Federated Learning via Shapley Value</b>
+* <br>Khaoula Otmani, Rachid El-Azouzi, Vincent Labatut
+* <br>Conference: IEEE ICC 2024
+* <br><a href="https://dblp.org/rec/conf/icc/OtmaniAL24">[IEEE ICC 2024]</a>
 
 
 
