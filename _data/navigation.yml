@@ -30,7 +30,7 @@ main:
   - title: "Jobs"
     url: /jobs/
 
-     - title: "Collaborators"
+  - title: "Collaborators"
     url: /collaborators/
 
   - title: "CV"
