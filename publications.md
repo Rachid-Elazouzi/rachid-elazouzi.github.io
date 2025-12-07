@@ -45,8 +45,8 @@ author_profile: true
 <br>MDPI GAMES 2025
 <br> <a href="https://doi.org/10.3390/g16020020">[MDPI GAMES]</a>
 
-* <b> W-RPC: a Weighted Reducer Placement and Coflow Scheduling Scheme
-<br>oussef Oubaydallah, Khalil Ibrahimi, Rachid El-Azouzi, Hatim Ousilmaati</b>
+* <b> W-RPC: a Weighted Reducer Placement and Coflow Scheduling Scheme</b>
+<br>oussef Oubaydallah, Khalil Ibrahimi, Rachid El-Azouzi, Hatim Ousilmaati
 <br>The 12th International Conference on Wireless Networks and Mobile Communications, Riyadh, Saudi Arabia.
 <br> <a href="https://www.wincom-conf.org/WINCOM_2025/">[WINCOM25]</a>
 
@@ -56,7 +56,7 @@ author_profile: true
 
 
 ### 2024
-* <b> Fair Coflow Scheduling via Controlled Slowdown 
+* <b> Fair Coflow Scheduling via Controlled Slowdown</b>
 <br> F. De Pellegrini, V. K. Gupta, Rachid El-Azouzi, S. Gueye, C. Richier, J. Leguay  
 <br> IEEE Transactions on Parallel and Distributed Systems, 2024  
 <br> <a href="https://doi.org/10.1109/TPDS.2024.1234567">[IEEE TPDS]</a>
