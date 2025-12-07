@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Jobs"
+title: "Offers"
 permalink: /jobs/
 author_profile: true
 ---
