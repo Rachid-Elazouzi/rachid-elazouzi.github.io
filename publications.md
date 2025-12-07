@@ -12,12 +12,12 @@ author_profile: true
 
 * <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
 <br>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
-<br>Advances in Financial Technologies ([AFT25](files/LIPIcs.AFT.2025.8-2.pdf)), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA (accepting rate 13%).
+<br>Advances in Financial Technologies ([AFT25](files/LIPIcs.AFT.2025.8-2.pdf)), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA (acceptance rate: 13%).
 
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
-<br>[ACM SIGMETRICS](files/Sigmetrics2025.pdf) 2025 ((accepting rate 17%)
+<br>[ACM SIGMETRICS](files/Sigmetrics2025.pdf) 2025 (acceptance rate: 15%)
   <br> <span style="color: red"> Best Paper Award Finalist @ SIGMETRICS 2025</span> 
 
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training</b>
