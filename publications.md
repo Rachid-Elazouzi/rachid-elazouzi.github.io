@@ -12,14 +12,14 @@ author_profile: true
 
 * <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
 <br>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
-<br>Advances in Financial Technologies ([AFT25](files/Sigmetrics2025.pdf)), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA.
+<br>Advances in Financial Technologies ([AFT25](files/LIPIcs.AFT.2025.8-2.pdf)), October 7-10, 2025 at Carnegie Mellon University in Pittsburgh, PA, USA.
 <!--<br> <a href="https://www.dropbox.com/scl/fi/mvt28oywvnne4h4krttjk/JIT_game_II.pdf?rlkey=rkz3ahixdxcx1lxvwrdc8ob6g&dl=0">[AFT25]</a>-->
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
-<br>ACM SIGMETRICS 2025
-<br> <a href="https://arxiv.org/html/2411.10399v1">[SIGMETRICS 2025]</a>
-  <br> <span style="color: red"> Best Paper Award Finalist @ SIGMETRICS 2025</span> 
+<br>[ACM SIGMETRICS]((files/Sigmetrics2025.pdf) 2025
+<!--<br> <a href="https://arxiv.org/html/2411.10399v1">[SIGMETRICS 2025]</a>
+  <br> <span style="color: red"> Best Paper Award Finalist @ SIGMETRICS 2025</span> -->
 
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training</b>
 <br>Ahmad Dabaja, Rachid El-Azouzi
