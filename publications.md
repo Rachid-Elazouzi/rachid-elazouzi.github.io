@@ -56,7 +56,7 @@ author_profile: true
 
 
 ### 2024
-* <b>Fair Coflow Scheduling via Controlled Slowdown</b>  
+* <b> Fair Coflow Scheduling via Controlled Slowdown 
 <br>F. De Pellegrini, V. K. Gupta, Rachid El-Azouzi, S. Gueye, C. Richier, J. Leguay  
 <br>IEEE Transactions on Parallel and Distributed Systems, 2024  
 <br><a href="https://doi.org/10.1109/TPDS.2024.1234567">[IEEE TPDS]</a>
