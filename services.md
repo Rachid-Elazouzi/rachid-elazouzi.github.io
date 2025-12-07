@@ -107,12 +107,19 @@ on Performance Evaluation Methodologies and Tools), Nantes, 2007.</b>
 * <b>2018</b>
 <br> ICC 2018,  Wiopt 2018, GLOBECOM 2018,  WINCOM 2018, JCDS-2020, SCS 2018, NetGCoop 2018, MobiApps 2018, UNet 2018, PIMTC 2018, IJCDS 2018
 
+* <b>2017</b>
+<br>  Wiopt 2017,  ISSPIT 2017,  IJCDS  2017, ISSPIT-2017, WINCOM 2017, UNet 2017.
+
+* <b>2016</b>
+<br>  Wiopt 2016, WINCOM 2016, UNet 2016, obiApps 2016, RAWNET 2016, DPNoC 2016, ISSPIT 2016
+
+
 
 
 
  
  
-   Wiop 2017, ISSPIT 2017, Mobiapps 2018, 3ICT 2019, Mobiapps 2016, GSCIT2015, ISSPIT2015, ICSPDM2015, WoTBD2015, DPNoC2015,ISSPIT 2015, IEEE  ICC15, MobiApps 2015, WinCOM2015, IAS2015, ScalCom2015, Netcom2015, MobiApps 2014, ICEPIT2014, RAWNET 2015, ICC 2015,  DPNoC 2015, IJCDS 2014, RAWNET 2015, Netgcoop 2014,  NGNS2014, Netcon2014, Wiop2014, Netgcoop 2013, Wiopt 2012, ICCCN 2011, Wiopt 2011, GameNets 2011,  PIMRC 2011, Neetcop 2010, Valuetools 2009 (Piza, Italy) , Wiopt 2009 (Seoul, Korea), GameComm 2009 (Piza, Italy), Bionetics 2009 (Avignon, France), NGNS 2009 (Rabat, Morocco), PIMRC 2008 (Cannes, France), Valuetools 2008 (Athens, Greece), GameComm2008 (Athens, Greece), Rawnet/WNC 2009 (Seoul, Korea), Rawnet 2008 (Berlin, Germany), WNC 2008 (Berlin, Germany), Valeutools 2007 (Nantes, France), RAWNET 2007, GameComm 2007 (Nantes, France)
+ , GSCIT2015, ISSPIT2015, ICSPDM2015, WoTBD2015, DPNoC2015,ISSPIT 2015, IEEE  ICC15, MobiApps 2015, WinCOM2015, IAS2015, ScalCom2015, Netcom2015, MobiApps 2014, ICEPIT2014, RAWNET 2015, ICC 2015,  DPNoC 2015, IJCDS 2014, RAWNET 2015, Netgcoop 2014,  NGNS2014, Netcon2014, Wiop2014, Netgcoop 2013, Wiopt 2012, ICCCN 2011, Wiopt 2011, GameNets 2011,  PIMRC 2011, Neetcop 2010, Valuetools 2009 (Piza, Italy) , Wiopt 2009 (Seoul, Korea), GameComm 2009 (Piza, Italy), Bionetics 2009 (Avignon, France), NGNS 2009 (Rabat, Morocco), PIMRC 2008 (Cannes, France), Valuetools 2008 (Athens, Greece), GameComm2008 (Athens, Greece), Rawnet/WNC 2009 (Seoul, Korea), Rawnet 2008 (Berlin, Germany), WNC 2008 (Berlin, Germany), Valeutools 2007 (Nantes, France), RAWNET 2007, GameComm 2007 (Nantes, France)
 
 
 ### Conference Tutorials
