@@ -17,7 +17,7 @@ author_profile: true
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
-<br>[ACM SIGMETRICS]((files/Sigmetrics2025.pdf) 2025
+<br>[ACM SIGMETRICS](files/Sigmetrics2025.pdf) 2025
 <!--<br> <a href="https://arxiv.org/html/2411.10399v1">[SIGMETRICS 2025]</a>
   <br> <span style="color: red"> Best Paper Award Finalist @ SIGMETRICS 2025</span> -->
 
