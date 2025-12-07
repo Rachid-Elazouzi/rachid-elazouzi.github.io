@@ -28,7 +28,7 @@ main:
     url: /services/
  
   - title: "Jobs"
-    url: /Jobs/
+    url: /jobs/
 
      - title: "Collaborators"
     url: /collaborators/
