@@ -83,6 +83,21 @@ author_profile: true
 <br>Conference: IEEE ICC 2024
  <br><a href="https://dblp.org/rec/conf/icc/OtmaniAL24">[IEEE ICC 2024]</a>
 
+ * <b>Preferential Revealing of Content Popularity Among Competing Service Providers Induces Network Bias</b>
+<br>Samira Habli, Rachid El-Azouzi, Essaid Sabir, Halima Elbiaze
+<br>IEEE Future Networks World Forum (FNWF) 2024
+ 
+  * <b>Constrained Correlated Equilibria</b>
+<br>Omar Boufous, Rachid El-Azouzi, Mikael Touati, Eitan Altman, Mustapha Bouhtou
+<br>60th Annual Allerton Conference on Communication, Control, and Computing
+
+  * <b>Robust Federated Learning via Weighted Median Aggregation</b>
+<br>Hibatallah Kabbaj, Rachid El-Azouzi, Abdellatif Kobbane
+<br>The 2nd International Conference on Federated Learning Technologies and Applications (FLTA 2024)
+
+ * <b>Optimal Variance-Reduced Client Sampling for Multiple Model Federated Learning</b>
+<br>H Zhang, Z Li, Z Gong, M Siew, C Joe-Wong, R El-Azouzi
+<br>44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024)
 
 
 
