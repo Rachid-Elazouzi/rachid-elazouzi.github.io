@@ -140,17 +140,17 @@ author_profile: true
 
 
 ### 2018
-* <b>   /b>
+* <b>   </b>
 <br>
 <br>
 
 ### 2017
-* <b>   /b>
+* <b>   </b>
 <br>
 <br>
 
 ### 2016
-* <b>   /b>
+* <b>   </b>
 <br>
 <br>
 
