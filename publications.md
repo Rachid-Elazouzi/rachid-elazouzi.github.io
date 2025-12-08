@@ -108,30 +108,30 @@ author_profile: true
  <br><a href="">[IEEE ICC 2024]</a>
 
 
-* <b>Blockchain competition between miners: a game theoretic perspective/b>
+* <b>Blockchain competition between miners: a game theoretic perspective</b>
 <br>Eitan Altman, Daniel Menasché, Alexandre Reiffers-Masson, Mandar Datar, Swapnil Dhamal, Corinne Touati, Rachid El-Azouzi
 <br>Frontiers in Blockchain, 2020
 
-* <b>Smart Data Pricing for Next-Generation Networks/b>
+* <b>Smart Data Pricing for Next-Generation Networks</b>
 <br>Mung Chiang, Rachid El-Azouzi, Lin Gao, Jianwei Huang, Carlee Joe-Wong, Soumya Sen
 <br> Guest Editorial: Smart Data Pricing for Next-Generation Networks, IEEE Journal on Selected Areas in Communications; 2020
 
 
 ### 2019
-* <b>  Enforcing Bitrate-Stability for Adaptive Streaming Traffic in Cellular Networks /b>
+* <b>  Enforcing Bitrate-Stability for Adaptive Streaming Traffic in Cellular Networks </b>
 <br> Aler Sunny, Rachid El-Azouzi, Afef Arfaoui, Eitan Altman, Poojary Sudheer, Dimitrios Tsilimantos and Stefan  Valentin
 <br> IEEE Transactions on Network and Service Management, 2019. 
 
-* <b> ,NEWCAST: Joint Resource Management and QoE-driven Optimization for Mobile Video Streaming  /b>
+* <b> ,NEWCAST: Joint Resource Management and QoE-driven Optimization for Mobile Video Streaming  </b>
 <br>Imen Triki, Rachid El-Azouzi and Haddad, Majed
 <br> IEEE Transactions on Network and Service Management, 2019.
 
 
-* <b> Blockchain competition between miners: a game theoretic perspective  /b>
+* <b> Blockchain competition between miners: a game theoretic perspective  </b>
 <br>Altman, Eitan; Menasché, Daniel; Reiffers, Alexandre; Datar, Mandar; Dhamal, Swapnil; Touati, Corinne; El-Azouzi, Rachid
 <br>Frontiers in Blockchain,2, 26,2019. 
 
-* <b> A fully distributed learning algorithm for power allocation in heterogeneous networks /b>
+* <b> A fully distributed learning algorithm for power allocation in heterogeneous networks</b>
 <br>El Hammouti, Hajar, Louna  Echabbi, Rachid El Azouzi
 <br>etworks,Computing,101,9,1287-1303,2019. 
 
