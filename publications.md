@@ -102,10 +102,24 @@ author_profile: true
 
 
 ### 2023
-* <b>Title</b>
-<br>Authors
-<br> <a href="https://arxiv.org/abs/">[arXiv]</a>
-<br>
+* <b>Communication entity and a method for transmitting a video data stream</b>
+<br>D Tsilimantos, ELA Rachid, A Sunny
+<br> US Patent 11,627,358, 2023
+
+* <b>DistFL: An enhanced FL approach for Non Trusted Setting in Water Distribution Networks</b>
+<br>H Kabbaj, M El-hanjri, A Kobbane, R El-Azouzi
+<br> IEEE International Conference on Communications (ICC), 2023.
+
+
+* <b>Telco market dynamics under strategic pricing and multi-attribute qos within cloud facilities</b>
+<br>Samira Habli, Mandar Datar, Rachid El-Azouzi, Essaid Sabir
+<br>International Wireless Communications and Mobile Computing (IWCMC), 2023
+
+* <b>Recent Advances in Data Intensive Applications: Survey</b>
+<br>Y. Oubaydallah, K. Ibrahimi and R. El-Azouzi
+<br> 10th International Conference on Wireless Networks and Mobile Communications (WINCOM), Istanbul, Turkiye, 2023
+
+
 
 ### 2022
 * <b>Joint Traffic Offloading and Aging Control in 5G IoT Networks</b>
@@ -113,8 +127,7 @@ author_profile: true
 <br>IEEE Transactions on Mobile Computing, 2022. 
  <br><a href="">[IEEE ICC 2024]</a>
 
-
-### 2021
+ 
 
 ### 2020
 * <b>Beyond Herd Immunity Against Strategic Attackers</b>
@@ -158,6 +171,15 @@ author_profile: true
 * <b>   </b>
 <br>
 <br>
+
+* <b>Optimal Energy-Delay Tradeoff for Opportunistic Spectrum Access in Cognitive Radio Networks</b>
+  <br>Oussam Habachi, Yezekael Hayel, Rachid El-Azouzi*  
+  <br>Telecommunication Systems, 67(4), 763-780, 2018
+
+
+* <b> Discrete and Continuous Distributed Delays in Replicator Dynamics</b> 
+  <br>Nesrine Ben-Khalifa, Rachid El-Azouzi, Yezekael Hayel*  
+  <br>Dynamic Games and Applications, Vol. 8, 4, 713-732, 2018
 
 ### 2017
 * <b>   </b>
