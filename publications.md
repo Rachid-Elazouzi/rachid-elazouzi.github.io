@@ -61,6 +61,8 @@ author_profile: true
 <br> IEEE Transactions on Parallel and Distributed Systems, 2024.
 <br> <a href="https://doi.org/10.1109/TPDS.2024.1234567">[IEEE TPDS]</a>
 
+
+
 * <b>Weighted Scheduling of Time-Sensitive Coflows</b>
 <br> Olivier Brun, Rachid El-Azouzi, Quang-Trung Luu, Francesco De Pellegrini, Balakrishna J. Prabhu, Cédric Richier
  <br>IEEE Transactions on Cloud Computing, 2024
@@ -91,18 +93,66 @@ author_profile: true
 <br>
 
 ### 2022
+* <b>Joint Traffic Offloading and Aging Control in 5G IoT Networks</b>
+<br>N. Modina, R. El Azouzi, F. De Pellegrini, D. S. Menasche and R. Figueiredo
+<br>IEEE Transactions on Mobile Computing, 2022. 
+ <br><a href="">[IEEE ICC 2024]</a>
+
 
 ### 2021
 
 ### 2020
+* <b>Beyond Herd Immunity Against Strategic Attackers</b>
+<br>Vilc Queupe Rufino, Leandro Pfleger De Aguiar, Daniel Sadoc Menasché, Cabral Lima, Ítalo Cunha, Eitan Altman, Rachid El-Azouzi, Francesco De Pellegrini, Alberto Avritzer, Michael Grottke
+<br>IEEE Access, Vol. 8, P. 66365-66399, 2020
+ <br><a href="">[IEEE ICC 2024]</a>
+
+
+* <b>Blockchain competition between miners: a game theoretic perspective/b>
+<br>Eitan Altman, Daniel Menasché, Alexandre Reiffers-Masson, Mandar Datar, Swapnil Dhamal, Corinne Touati, Rachid El-Azouzi
+<br>Frontiers in Blockchain, 2020
+
+* <b>Smart Data Pricing for Next-Generation Networks/b>
+<br>Mung Chiang, Rachid El-Azouzi, Lin Gao, Jianwei Huang, Carlee Joe-Wong, Soumya Sen
+<br> Guest Editorial: Smart Data Pricing for Next-Generation Networks, IEEE Journal on Selected Areas in Communications; 2020
+
 
 ### 2019
+* <b>  Enforcing Bitrate-Stability for Adaptive Streaming Traffic in Cellular Networks /b>
+<br> Aler Sunny, Rachid El-Azouzi, Afef Arfaoui, Eitan Altman, Poojary Sudheer, Dimitrios Tsilimantos and Stefan  Valentin
+<br> IEEE Transactions on Network and Service Management, 2019. 
+
+* <b> ,NEWCAST: Joint Resource Management and QoE-driven Optimization for Mobile Video Streaming  /b>
+<br>Imen Triki, Rachid El-Azouzi and Haddad, Majed
+<br> IEEE Transactions on Network and Service Management, 2019.
+
+
+* <b> Blockchain competition between miners: a game theoretic perspective  /b>
+<br>Altman, Eitan; Menasché, Daniel; Reiffers, Alexandre; Datar, Mandar; Dhamal, Swapnil; Touati, Corinne; El-Azouzi, Rachid
+<br>Frontiers in Blockchain,2, 26,2019. 
+
+* <b> A fully distributed learning algorithm for power allocation in heterogeneous networks /b>
+<br>El Hammouti, Hajar, Louna  Echabbi, Rachid El Azouzi
+<br>etworks,Computing,101,9,1287-1303,2019. 
+
+
+
+
 
 ### 2018
+* <b>   /b>
+<br>
+<br>
 
 ### 2017
+* <b>   /b>
+<br>
+<br>
 
 ### 2016
+* <b>   /b>
+<br>
+<br>
 
 
 ### 2015
