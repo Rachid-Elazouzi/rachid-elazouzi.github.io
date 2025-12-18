@@ -16,24 +16,27 @@ author_profile: true
 * <b>Fatima OUBELKAS, 2025</b>
 <br> **Title**: arameter-Efficient Fine-tuning for Federated Learning (co-advised with Abdellatif Kobbane, Université Mohammed V).
 
-* <b>Anne Reulke, 2025. </b>
+* <b>Anne Reulke, 2024 </b>
 <br> **Title**: A game-theoretic approach to efficient and sustainable cloud computing systems, co-advised with  MIkael Touati, Orange Innov).
 
 * <b>Caina Figueiredo Pereira, 2024 </b>
 <br>  **Title**: Multi-Model Federated Learning with Fairness Guarantees (co-advised with  carlee Joe-Wong, Carnegie Mellon University). 
 
-* <b>Ahmad Dabaja, 2024 </b>
+* <b>Ahmad Dabaja, 2023 </b>
 <br> **Title**: Designing Incentives for Effective Federated Learning in a Distributed System (co-advise** with Yannick Estève, Avignon University). 
 
 
 * <b>HibatAllah Kabbaj, 2022. </b>
 <br> **Title**: Privacy attacks and defenses in Federated Learning systems, co-advised with Abdellatif Kobbane, Université Mohammed V. 
 
-* <b>Samira Halbi, 2020 </b>
-<br> **Title**: Resource Allocation of 5G in Smart Cities, co-advised with Essaid Sabir, Université TÉLUQ, Canada.
+
 
 
 ### Former PhD Students
+
+* <b>Samira Halbi, 2020-2025 </b>
+<br> **Title**: Resource Allocation of 5G in Smart Cities, co-advised with Essaid Sabir, Université TÉLUQ, Canada.
+
 * <b> Omar Boufous, 2020-2024.</b>
 <br> **Title**: Correlated Equilibria and  Learning, co-advised  with Eitan Altman (INRIA), MIkael Touati (Orange Innov) and Mustapha Boutchou (Orange Innov).
 
