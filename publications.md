@@ -45,7 +45,7 @@ author_profile: true
 * <b>Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning </b>
 <br>Haoran Zhang, Zejun Gong, Zekai Li, Marie Siew, Joe-Wong Carlee, Rachid El-Azouzi.
 <br> Arxiv report (ArXiv:2504.05138), 2025.
-<br> <a href="https://arxiv.org/pdf/2504.05138">[PDF File]</a>
+<br> <a href="https://arxiv.org/pdf/2504.05138">PDF File</a>
 
 * <b>Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services</b>
 <br>Samira Habli, Rachid El-Azouzi, Essaid Sabir, Mandar Datar, Halima Elbiaze, Mohammed Sadik
@@ -62,7 +62,7 @@ author_profile: true
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
 <br> Arxiv report (ArXiv:2411.10399), 2025. 
-<br> <a href="https://arxiv.org/html/2411.10399v1">[PDF File]</a>
+<br> <a href="https://arxiv.org/html/2411.10399v1">PDF File</a>
 
 
 ### 2024
