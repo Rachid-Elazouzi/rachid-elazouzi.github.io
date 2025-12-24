@@ -19,8 +19,9 @@ author_profile: true
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
-<br>[ACM SIGMETRICS](files/Sigmetrics2025.pdf) 2025 (acceptance rate: 15%)
+<br> ACM SIGMETRICS, Stony Brook University, New York, USA,  2025 (acceptance rate: 15%)
 <br> <span style="color:red"> Best Paper Award Finalist @ SIGMETRICS 2025</span>
+<br> [PDF File](files/Sigmetrics2025.pdf)
 
 
 * <b>FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training</b>
