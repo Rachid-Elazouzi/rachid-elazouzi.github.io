@@ -58,7 +58,8 @@ author_profile: true
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
-<br> <a href="https://arxiv.org/html/2411.10399v1">ArXiv:2411.10399, 2025</a>
+<br> Arxiv report (ArXiv:2411.10399), 2025. 
+<br> <a href="https://arxiv.org/html/2411.10399v1">[PDF File]</a>
 
 
 ### 2024
