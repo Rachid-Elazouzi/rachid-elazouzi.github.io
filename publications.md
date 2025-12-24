@@ -44,7 +44,8 @@ author_profile: true
 
 * <b>Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning </b>
 <br>Haoran Zhang, Zejun Gong, Zekai Li, Marie Siew, Joe-Wong Carlee, Rachid El-Azouzi
-<br> <a href="https://arxiv.org/pdf/2504.05138">[Arxiv]</a>
+<br>[PDF File](files/MDPI025.pdf)
+<!--<br> <a href="https://arxiv.org/pdf/2504.05138">[Arxiv]</a>-->
 
 * <b>Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services</b>
 <br>Samira Habli, Rachid El-Azouzi, Essaid Sabir, Mandar Datar, Halima Elbiaze, Mohammed Sadik
