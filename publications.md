@@ -45,17 +45,19 @@ author_profile: true
 * <b>Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning </b>
 <br>Haoran Zhang, Zejun Gong, Zekai Li, Marie Siew, Joe-Wong Carlee, Rachid El-Azouzi
 <br>[PDF File](files/MDPI025.pdf)
-<!--<br> <a href="https://arxiv.org/pdf/2504.05138">[Arxiv]</a>-->
+<br> <a href="https://arxiv.org/pdf/2504.05138">[Arxiv]</a>-->
 
 * <b>Two-Tier Marketplace with Multi-Resource Bidding and Strategic Pricing for Multi-QoS Services</b>
 <br>Samira Habli, Rachid El-Azouzi, Essaid Sabir, Mandar Datar, Halima Elbiaze, Mohammed Sadik
-<br>MDPI GAMES 2025
-<br> <a href="https://doi.org/10.3390/g16020020">[PDF File]</a>
+<br>MDPI GAMES, 16(2):20 2025
+<br>[PDF File](files/MDPI2025.pdf)
+<!--<br> <a href="https://doi.org/10.3390/g16020020">[PDF File]</a>-->
 
 * <b> W-RPC: a Weighted Reducer Placement and Coflow Scheduling Scheme</b>
 <br>oussef Oubaydallah, Khalil Ibrahimi, Rachid El-Azouzi, Hatim Ousilmaati
 <br>The 12th International Conference on Wireless Networks and Mobile Communications, Riyadh, Saudi Arabia.
-<br> <a href="https://www.wincom-conf.org/WINCOM_2025/">[PDF File]</a>
+<br>[PDF File](files/WINCOM2025.pdf)
+<!--<br> <a href="https://www.wincom-conf.org/WINCOM_2025/">[PDF File]</a>-->
 
 * <b>Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers</b>
 <br>Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti
