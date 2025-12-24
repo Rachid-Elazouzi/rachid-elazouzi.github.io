@@ -32,7 +32,8 @@ author_profile: true
 
 * <b>Strategic Analysis of Just-in-Time Liquidity Provision in Concentrated Liquidity Market Makers</b>
 <br>B Trotti Llacer, W Tang, R El-Azouzi, G Fanti, D Sadoc Menasche
-<br> <a href="https://arxiv.org/abs/2509.16157"> ArXiv:2509.16157, 2025 </a>
+<br> Arxiv report (2509.16157), 2025.
+<br> <a href="https://arxiv.org/abs/2509.16157">PDF File</a>
 
 
 * <b>Group-based Client Sampling in Multi-Model Federated Learning</b>
