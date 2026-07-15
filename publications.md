@@ -4,6 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### 2026
+* <b>FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching</b>
+<br>Haoran Zhang, Cainã F. Pereira, Marie Siew, Carlee Joe-Wong, Rachid El-Azouzi
+<br>42nd Conference on Uncertainty in Artificial Intelligence (UAI), October 17-21, 2026 at KIT Events in Amsterdam, the Netherlands (acceptance rate: 24%).
+<br> [PDF File](files/IAU26.pdf)
+
+* <b>Equilibrium and Infeasibility: A new solution concept for games</b>
+<br>Anne Reulke, Mikaël Touati, Rachid El-Azouzi
+<br>65th IEEE Conference on Decision and Control (CDC 2026), Honolulu, Hawaii.
+<br> [PDF File](files/CDC26.pdf)
+
+
+
 ### 2025
 * <b>ClusFed: A Clustering-Based Defense for Secure Federated Learning</b>
 <br> Hibatallah Kabbaj, Rachid El-Azouzi, Abdellatif Kobbane
