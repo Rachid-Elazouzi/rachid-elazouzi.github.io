@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Services"
+excerpt: "Professional service by Rachid El-Azouzi at Avignon University: editorial roles for IEEE TNSE and the journal Games, General Chair of ITC 33 and Wiopt 2019, and technical program committee membership for major networking conferences from 2007 to 2026."
 permalink: /services/
 author_profile: true
 ---
