@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Offers"
+excerpt: "Open positions with Rachid El-Azouzi's group at Avignon University: an 18-month postdoctoral position in federated and distributed learning, and six-month internships in machine learning, blockchain, AI-based workload scheduling, and game theory."
 permalink: /jobs/
 author_profile: true
 ---
