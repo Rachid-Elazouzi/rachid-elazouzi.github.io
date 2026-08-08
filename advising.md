@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Advising"
+excerpt: "PhD students and postdocs advised by Rachid El-Azouzi at Avignon University, working on distributed AI for 6G networks, federated learning, cloud computing, and privacy-preserving machine learning, with past dissertations on resource allocation, game theory, wireless communications, and epidemic modeling."
 permalink: /advising/
 author_profile: true
 ---
