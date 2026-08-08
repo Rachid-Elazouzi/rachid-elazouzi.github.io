@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Awards"
+excerpt: "Awards and honors received by Rachid El-Azouzi, including a Best Paper Award finalist at SIGMETRICS 2025, best paper awards at IEEE Globecom, Networking, and NETYS, the Best Associate Editor Award for IEEE TNSE, and Distinguished Member recognition from the INFOCOM 2025 Technical Program Committee."
 permalink: /awards/
 author_profile: true
 ---
