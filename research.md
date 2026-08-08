@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+excerpt: "Research by Rachid El-Azouzi at Avignon University on federated learning and optimization, blockchain and cryptocurrency (automated market makers), parallel computing for AI, and game-theoretic approaches to strategic interactions in decentralized systems."
 permalink: /research/
 author_profile: true
 ---
