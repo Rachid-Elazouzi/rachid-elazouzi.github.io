@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HOME"
+title                    : "Rachid El-Azouzi – Professor, Avignon University"
 title_separator          : "-"
-name                     :  "HOME"
+name                     :  "Rachid El-Azouzi – Professor, Avignon University"
 description              : &description "Rachid Elazouzi"
 url                      : "https://rachid-elazouzi.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
