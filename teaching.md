@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
+excerpt: "Courses taught by Rachid El-Azouzi at Avignon University and partner institutions in machine learning, network security, cryptography, and game theory, at undergraduate and master's level."
 permalink: /teaching/
 author_profile: true
 ---
