@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Rachid El-Azouzi – Professor, Avignon University"
+excerpt: "Rachid El-Azouzi is Professor at Avignon University, France, working on federated learning, wireless networks, distributed systems, edge computing, game theory, and 6G networks."
 author_profile: true
 redirect_from: 
   - /about/
