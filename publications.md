@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "Full list of publications by Rachid El-Azouzi, Professor at Avignon University: papers on federated learning, wireless networks, distributed systems, edge computing, game theory, and 6G networks."
 permalink: /publications/
 author_profile: true
 ---
