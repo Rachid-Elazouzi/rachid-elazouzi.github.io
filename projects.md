@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research Projects"
+excerpt: "Research projects led or co-led by Rachid El-Azouzi (2006–2028) on 6G networks, federated learning, cloud computing, and network slicing, funded by ANR, the EU FP7 program, and industry partners including Orange Labs, Huawei, and Maroc Telecom."
 permalink: /projects/
 author_profile: true
 ---
