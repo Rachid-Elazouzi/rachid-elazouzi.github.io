@@ -6,6 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### 2026
+
 * <b>FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching</b>
 <br>Haoran Zhang, Cainã F. Pereira, Marie Siew, Carlee Joe-Wong, Rachid El-Azouzi
 <br>42nd Conference on Uncertainty in Artificial Intelligence (UAI), October 17-21, 2026 at KIT Events in Amsterdam, the Netherlands (acceptance rate: 24%).
@@ -15,6 +16,34 @@ author_profile: true
 <br>Anne Reulke, Mikaël Touati, Rachid El-Azouzi
 <br>65th IEEE Conference on Decision and Control (CDC 2026), Honolulu, Hawaii.
 <br> [PDF File](files/CDC26.pdf)
+
+* <b>Server-Side Global Alignment for Layer-Wise Federated Learning</b>
+<br>FATIMA Oubelkas, Rachid El-Azouzi, Abdellatif Kobbane
+<br>The 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026), 27-30 October, Paris.
+<br> [PDF File](files/XXX.pdf)
+
+* <b>Round Duration Optimization in Asynchronous Federated Learning over AirComp Channels </b>
+<br>Cainã F. Pereira,  Rachid El-Azouzi, Carlee Joe-Wong
+<br>The 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026)27-30 October, Paris.
+<br> [PDF File](files/XXX.pdf)
+
+* <b> Leveraging Memory for Efficient Gossip-Based Decentralized Federated Learning</b>
+<br>Soulaymane KACEMs, Rachid El-Azouzi, Guillaume Fraysse, Tamara Tosic, Juan-Manuel Torres
+<br>The 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026), 27-30 October, Paris.
+<br> [PDF File](files/XXX.pdf)
+
+
+* <b>Joint Client Scheduling and Resource Allocation for Optimal Federated Learning over Wireless Networks </b>
+<br> Ahmad Dabaja, Rachid El-Azouzi
+<br>The 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026), 27-30 October, Paris.
+<br> [PDF File](files/XXX.pdf)
+
+* <b>Resource-Aware Optimal Client Scheduling for Wireless Federated Learning</b>
+<br> Ahmad Dabaja, Rachid El-Azouzi
+<br> Poster, The 28th International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems, Paris, France October 26th-30th, 2026.
+<br> [PDF File](files/XXX.pdf)
+
+
 
 
 
