@@ -7,9 +7,16 @@ author_profile: true
 ---
 ### 2026
 
+The Energy-Data Dilemma: When Self-interest meets Federated Learning
+
 * <b>FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching</b>
 <br>Haoran Zhang, Cainã F. Pereira, Marie Siew, Carlee Joe-Wong, Rachid El-Azouzi
 <br>42nd Conference on Uncertainty in Artificial Intelligence (UAI), October 17-21, 2026 at KIT Events in Amsterdam, the Netherlands (acceptance rate: 24%).
+<br> [PDF File](files/IAU26.pdf)
+
+* <b>The Energy-Data Dilemma: When Self-interest meets Federated Learning</b>
+<br>Oumayma Haddaji, Olivier Brun, Balakrishna Prabhu, Rachid El-Azouzi
+<br>IFIP Performance, Ghent, Belgium, on 3-5 November 2026.
 <br> [PDF File](files/IAU26.pdf)
 
 * <b>Equilibrium and Infeasibility: A new solution concept for games</b>
