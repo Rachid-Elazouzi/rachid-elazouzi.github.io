@@ -42,7 +42,7 @@ The Energy-Data Dilemma: When Self-interest meets Federated Learning
 
 * <b>Joint Client Scheduling and Resource Allocation for Optimal Federated Learning over Wireless Networks </b>
 <br> Ahmad Dabaja, Rachid El-Azouzi
-<br>The 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026), 27-30 October, Paris.
+<br>The 4th International Conference on Federated Learning Technologies and Applications (FLTA 2026), 27-30 October, Paris (<span style="color:red">Best Paper Award</span>).
 <br> [PDF File](files/XXX.pdf)
 
 * <b>Resource-Aware Optimal Client Scheduling for Wireless Federated Learning</b>
