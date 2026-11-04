@@ -23,6 +23,8 @@ Rachid El-Azouzi is  professor at the University of Avignon in France,  speciali
 
 News
 ======
+10/26: Congratulations to AHmad Dabaja  for winning the Best Paper Award at The 4th IEEE International Conference on Federated Learning Technologies and Applications (FLTA 2026) for our work on Joint Client Scheduling and Resource Allocation for Optimal Federated Learning over Wireless Networks!
+
 06/25: Congratulations to Weizhao Tang, Cheng Han Lee, Ethan Chan and Giulia Fanti for being finalists for the Best Paper Award at SIGMETRICS 2025 for our work on analyzing game theoretic strategies for liquidity allocation in automated market makers!
 
 03/25  Distinguished member of the INFOCOM TPC 2025
