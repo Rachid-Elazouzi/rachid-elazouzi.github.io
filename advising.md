@@ -25,15 +25,10 @@ author_profile: true
 
 * <b>Ahmad Dabaja, 2023 </b>
 <br> **Title**: Designing Incentives for Effective Federated Learning in a Distributed System (co-advise** with Yannick Estève, Avignon University). 
-
-
-* <b>HibatAllah Kabbaj, 2022. </b>
-<br> **Title**: Privacy attacks and defenses in Federated Learning systems, co-advised with Abdellatif Kobbane, Université Mohammed V. 
-
-
-
-
 ### Former PhD Students
+
+* <b>HibatAllah Kabbaj, 2022-2026 </b>
+<br> **Title**: Privacy attacks and defenses in Federated Learning systems, co-advised with Abdellatif Kobbane, Université Mohammed V.
 
 * <b>Samira Halbi, 2020-2025 </b>
 <br> **Title**: Resource Allocation of 5G in Smart Cities, co-advised with Essaid Sabir, Université TÉLUQ, Canada.
